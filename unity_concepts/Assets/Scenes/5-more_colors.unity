@@ -290,8 +290,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3567805692033249478, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_Name
-      value: Ball (2)
+      value: Green Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 6011535065135478209, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: bff2d247b6e98d0478776799743b4502, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -359,8 +363,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3567805692033249478, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_Name
-      value: Ball (4)
+      value: Black Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 6011535065135478209, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a6a4ef273a7f79842a724402e1298c5d, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -574,15 +582,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1440331143221917392, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1440331143221917392, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 8
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1440331143221917392, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1440331143221917392, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_LocalRotation.w
@@ -614,8 +622,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3567805692033249478, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_Name
-      value: Ball (3)
+      value: White Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 6011535065135478209, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ea55439f5e0fec549ae3e48937a80b7f, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -683,8 +695,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3567805692033249478, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_Name
-      value: Ball (1)
+      value: Blue Ball
       objectReference: {fileID: 0}
+    - target: {fileID: 6011535065135478209, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a33d571f9d1dc24e886d441efaa2d75, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -740,7 +756,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3567805692033249478, guid: 44fba50eb4e5dee46901c90383310602, type: 3}
       propertyPath: m_Name
-      value: Ball
+      value: Red Ball
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
